@@ -1,0 +1,19 @@
+FINLEARN FINAL PROJECT - QUICK START
+
+1. Extract the ZIP.
+2. Open the extracted finlearn-final-project folder in VS Code.
+3. Open PowerShell in that folder.
+4. Run: npm install
+5. For local testing, run: npm run dev
+6. Open: http://localhost:3000
+
+REAL EMAIL VERIFICATION:
+- Copy .env.example to .env.local
+- Fill in SMTP settings (README has the exact example)
+- Restart npm run dev
+
+SQL:
+- db/schema.sql contains the tables.
+- storage/finlearn.sqlite is created automatically after the first auth request.
+
+If you previously had the older FinLearn version, use this as a COMPLETE REPLACEMENT PROJECT instead of mixing old patch files into it.

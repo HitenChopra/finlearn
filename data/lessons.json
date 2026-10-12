@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "income-vs-expenses",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Income vs Expenses",
+    "summary": "Learn the difference between money coming in and money going out.",
+    "duration": "4 min",
+    "xp": 30,
+    "concept": "Learn the difference between money coming in and money going out. Income is money received, while expenses are money spent. Comparing the two helps you understand whether you are living within your means.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Track income and expenses over the same period. A positive gap means income is higher than expenses. Tracking is the first step toward budgeting.",
+    "example": "If you receive ₹20,000 in a month and spend ₹15,500, ₹4,500 remains before any new spending. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Track income and expenses over the same period.",
+      "A positive gap means income is higher than expenses.",
+      "Tracking is the first step toward budgeting."
+    ],
+    "sourceLabel": "NCFE / general financial-literacy concepts",
+    "exampleExplanation": [
+      "Track income and expenses over the same period.",
+      "A positive gap means income is higher than expenses.",
+      "Tracking is the first step toward budgeting."
+    ],
+    "quizzes": [
+      {
+        "question": "If income is ₹25,000 and expenses are ₹19,000, how much remains?",
+        "options": [
+          "₹4,000",
+          "₹5,000",
+          "₹6,000",
+          "₹7,000"
+        ],
+        "answerIndex": 2,
+        "explanation": "₹25,000 − ₹19,000 = ₹6,000."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Income vs Expenses?",
+        "options": [
+          "Track income and expenses over the same period.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Track income and expenses over the same period."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "budgeting",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Budgeting",
+    "summary": "Turn your income into a plan before you spend it.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Turn your income into a plan before you spend it. A budget is a plan for allocating available money across needs, wants, saving and goals.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. A budget is a plan, not a punishment. Separate essential and discretionary spending. Review actual spending and adjust future budgets.",
+    "example": "A student with ₹10,000 for the month can first estimate essentials, then decide how much can go toward flexible spending and saving. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "A budget is a plan, not a punishment.",
+      "Separate essential and discretionary spending.",
+      "Review actual spending and adjust future budgets."
+    ],
+    "sourceLabel": "NCFE / personal budgeting concepts",
+    "exampleExplanation": [
+      "A budget is a plan, not a punishment.",
+      "Separate essential and discretionary spending.",
+      "Review actual spending and adjust future budgets."
+    ],
+    "quizzes": [
+      {
+        "question": "What is the main purpose of a budget?",
+        "options": [
+          "To eliminate all fun spending",
+          "To plan how money will be allocated",
+          "To guarantee returns",
+          "To increase salary"
+        ],
+        "answerIndex": 1,
+        "explanation": "A budget helps decide where available money should go."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Budgeting?",
+        "options": [
+          "A budget is a plan, not a punishment.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "A budget is a plan, not a punishment."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "saving-emergency-fund",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Saving & Emergency Funds",
+    "summary": "Build a financial cushion for future goals and unexpected costs.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Build a financial cushion for future goals and unexpected costs. Saving means setting aside part of your available money for future use. An emergency fund is money reserved for unexpected essential expenses or income disruptions.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Saving works best when done regularly. Emergency funds should be accessible when genuinely needed. The right buffer depends on personal circumstances.",
+    "example": "Saving ₹1,500 each month can gradually create a buffer for urgent travel, repairs or other necessary costs. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Saving works best when done regularly.",
+      "Emergency funds should be accessible when genuinely needed.",
+      "The right buffer depends on personal circumstances."
+    ],
+    "sourceLabel": "NCFE / basic saving principles",
+    "exampleExplanation": [
+      "Saving works best when done regularly.",
+      "Emergency funds should be accessible when genuinely needed.",
+      "The right buffer depends on personal circumstances."
+    ],
+    "quizzes": [
+      {
+        "question": "Which best describes an emergency fund?",
+        "options": [
+          "Money for unexpected essential costs",
+          "Money only for entertainment",
+          "A guaranteed-return investment",
+          "A loan"
+        ],
+        "answerIndex": 0,
+        "explanation": "An emergency fund is money saved in advance for unexpected essential expenses."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Saving & Emergency Funds?",
+        "options": [
+          "Saving works best when done regularly.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Saving works best when done regularly."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "financial-goals",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Financial Goals",
+    "summary": "Convert vague wishes into measurable money targets.",
+    "duration": "4 min",
+    "xp": 35,
+    "concept": "Convert vague wishes into measurable money targets. A financial goal defines what you want to achieve, how much money it may require and the time available to reach it.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Goals should be specific. Time horizon matters. A target amount makes progress measurable.",
+    "example": "Instead of saying 'I want a laptop', a clearer goal is 'Save ₹60,000 in 10 months'. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Goals should be specific.",
+      "Time horizon matters.",
+      "A target amount makes progress measurable."
+    ],
+    "sourceLabel": "NCFE / financial planning basics",
+    "exampleExplanation": [
+      "Goals should be specific.",
+      "Time horizon matters.",
+      "A target amount makes progress measurable."
+    ],
+    "quizzes": [
+      {
+        "question": "Which is the clearest financial goal?",
+        "options": [
+          "Save more someday",
+          "Buy something expensive",
+          "Save ₹24,000 in 12 months",
+          "Spend less somehow"
+        ],
+        "answerIndex": 2,
+        "explanation": "A clear goal includes a target amount and time frame."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Financial Goals?",
+        "options": [
+          "Goals should be specific.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Goals should be specific."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "inflation",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Inflation & Purchasing Power",
+    "summary": "Understand why the same amount of money can buy less over time.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Understand why the same amount of money can buy less over time. Inflation is a sustained increase in the general price level of goods and services. When prices rise faster than your money grows, purchasing power falls.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Inflation concerns general prices, not one item. Purchasing power is what money can buy. Price indices are commonly used to track inflation.",
+    "example": "If a basket costs ₹1,000 today and ₹1,060 later, you need ₹60 more to buy the same basket. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Inflation concerns general prices, not one item.",
+      "Purchasing power is what money can buy.",
+      "Price indices are commonly used to track inflation."
+    ],
+    "sourceLabel": "RBI / inflation and financial-awareness concepts",
+    "exampleExplanation": [
+      "Inflation concerns general prices, not one item.",
+      "Purchasing power is what money can buy.",
+      "Price indices are commonly used to track inflation."
+    ],
+    "quizzes": [
+      {
+        "question": "If general prices rise while income stays unchanged, purchasing power usually:",
+        "options": [
+          "Increases",
+          "Decreases",
+          "Doubles",
+          "Stays guaranteed"
+        ],
+        "answerIndex": 1,
+        "explanation": "Higher general prices mean the same income usually buys fewer goods and services."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Inflation & Purchasing Power?",
+        "options": [
+          "Inflation concerns general prices, not one item.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Inflation concerns general prices, not one item."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "bank-account-basics",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "Bank Account Basics",
+    "summary": "Understand how common bank accounts fit into everyday money management.",
+    "duration": "4 min",
+    "xp": 30,
+    "concept": "Understand how common bank accounts fit into everyday money management. Bank accounts provide a structured way to hold, receive, transfer and manage money. Different account types can have different rules, charges and features.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Account features vary by bank and account type. Review fees and balance requirements. Keep credentials private.",
+    "example": "A savings account can be used to receive money, make digital payments and keep funds safer than carrying all money as cash. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Account features vary by bank and account type.",
+      "Review fees and balance requirements.",
+      "Keep credentials private."
+    ],
+    "sourceLabel": "RBI / banking-awareness concepts",
+    "exampleExplanation": [
+      "Account features vary by bank and account type.",
+      "Review fees and balance requirements.",
+      "Keep credentials private."
+    ],
+    "quizzes": [
+      {
+        "question": "Which is a good banking habit?",
+        "options": [
+          "Sharing OTPs",
+          "Protecting PINs and passwords",
+          "Ignoring all fees",
+          "Giving strangers access"
+        ],
+        "answerIndex": 1,
+        "explanation": "Bank credentials should be kept private."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Bank Account Basics?",
+        "options": [
+          "Account features vary by bank and account type.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Account features vary by bank and account type."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "upi-basics",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "UPI Basics",
+    "summary": "Learn how instant bank-to-bank digital payments work.",
+    "duration": "4 min",
+    "xp": 35,
+    "concept": "Learn how instant bank-to-bank digital payments work. UPI enables eligible bank accounts to send and receive money digitally through compatible applications and identifiers.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Verify recipient details. Check the amount before authorising. Never share UPI PINs.",
+    "example": "Before paying a merchant, verify the name and amount shown in the UPI app before authorising the transaction. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Verify recipient details.",
+      "Check the amount before authorising.",
+      "Never share UPI PINs."
+    ],
+    "sourceLabel": "RBI / digital-payment awareness",
+    "exampleExplanation": [
+      "Verify recipient details.",
+      "Check the amount before authorising.",
+      "Never share UPI PINs."
+    ],
+    "quizzes": [
+      {
+        "question": "What should you verify before approving a UPI payment?",
+        "options": [
+          "Recipient and amount",
+          "Phone wallpaper",
+          "App colour",
+          "Nothing"
+        ],
+        "answerIndex": 0,
+        "explanation": "Checking recipient details and amount helps prevent avoidable mistakes."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on UPI Basics?",
+        "options": [
+          "Verify recipient details.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Verify recipient details."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "cards-basics",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "Debit vs Credit Cards",
+    "summary": "Know the difference between spending your own money and borrowing.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Know the difference between spending your own money and borrowing. A debit card usually draws money from your bank account, while a credit card generally allows purchases using a credit limit that must later be repaid.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Debit usually uses deposited funds. Credit creates an amount to repay. Fees and interest rules matter.",
+    "example": "A ₹2,000 debit-card purchase reduces available bank balance, while the same credit-card purchase adds ₹2,000 to the amount owed to the issuer. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Debit usually uses deposited funds.",
+      "Credit creates an amount to repay.",
+      "Fees and interest rules matter."
+    ],
+    "sourceLabel": "RBI / basic banking concepts",
+    "exampleExplanation": [
+      "Debit usually uses deposited funds.",
+      "Credit creates an amount to repay.",
+      "Fees and interest rules matter."
+    ],
+    "quizzes": [
+      {
+        "question": "Which card generally creates a repayment obligation?",
+        "options": [
+          "Debit card",
+          "Credit card",
+          "ATM slip",
+          "Cheque book"
+        ],
+        "answerIndex": 1,
+        "explanation": "A credit-card purchase is generally paid back later according to the issuer's terms."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Debit vs Credit Cards?",
+        "options": [
+          "Debit usually uses deposited funds.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Debit usually uses deposited funds."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "digital-payment-safety",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "Digital Payment Safety",
+    "summary": "Recognize common habits that reduce payment fraud risk.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Recognize common habits that reduce payment fraud risk. Digital-payment safety depends on verifying transactions, protecting credentials and being cautious with unexpected links, calls and requests.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Do not share OTPs or PINs. Treat urgent payment requests cautiously. Use official channels to resolve issues.",
+    "example": "A caller claiming to be 'support' asks for your OTP to reverse a payment. The safe action is to refuse and use official support channels. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Do not share OTPs or PINs.",
+      "Treat urgent payment requests cautiously.",
+      "Use official channels to resolve issues."
+    ],
+    "sourceLabel": "RBI / digital-payment safety guidance",
+    "exampleExplanation": [
+      "Do not share OTPs or PINs.",
+      "Treat urgent payment requests cautiously.",
+      "Use official channels to resolve issues."
+    ],
+    "quizzes": [
+      {
+        "question": "Someone asks for your OTP to 'refund' money. What should you do?",
+        "options": [
+          "Share it quickly",
+          "Refuse to share it",
+          "Post it publicly",
+          "Forward it to friends"
+        ],
+        "answerIndex": 1,
+        "explanation": "OTPs and PINs should never be shared with untrusted parties."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Digital Payment Safety?",
+        "options": [
+          "Do not share OTPs or PINs.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Do not share OTPs or PINs."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "banking-channels",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "NEFT, RTGS & IMPS Overview",
+    "summary": "See that different electronic transfer systems exist for different use cases.",
+    "duration": "5 min",
+    "xp": 35,
+    "concept": "See that different electronic transfer systems exist for different use cases. India uses multiple electronic bank-transfer systems. Their operating rules, limits, settlement characteristics and availability can differ.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Transfer systems have different characteristics. Bank rules and limits can change. Use official bank information for current details.",
+    "example": "A user choosing between transfer methods should check the bank's current rules rather than assuming all systems behave identically. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Transfer systems have different characteristics.",
+      "Bank rules and limits can change.",
+      "Use official bank information for current details."
+    ],
+    "sourceLabel": "RBI / payment-system concepts",
+    "exampleExplanation": [
+      "Transfer systems have different characteristics.",
+      "Bank rules and limits can change.",
+      "Use official bank information for current details."
+    ],
+    "quizzes": [
+      {
+        "question": "Why should you check your bank's current transfer rules?",
+        "options": [
+          "Because all systems are identical",
+          "Because limits and conditions can differ",
+          "Because transfers are always free",
+          "Because only cash works"
+        ],
+        "answerIndex": 1,
+        "explanation": "Different transfer systems and banks can have different current rules and conditions."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on NEFT, RTGS & IMPS Overview?",
+        "options": [
+          "Transfer systems have different characteristics.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Transfer systems have different characteristics."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "credit-score",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "Credit Scores",
+    "summary": "Understand what a credit score represents at a high level.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Understand what a credit score represents at a high level. A credit score is a numerical summary used by lenders as one input when evaluating a borrower's credit history and repayment behaviour.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Credit history matters. Repayment behaviour is important. A score is only one part of lending decisions.",
+    "example": "Consistently paying obligations on time may support a healthier credit history, while repeated missed payments can harm it. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Credit history matters.",
+      "Repayment behaviour is important.",
+      "A score is only one part of lending decisions."
+    ],
+    "sourceLabel": "General credit-literacy concepts",
+    "exampleExplanation": [
+      "Credit history matters.",
+      "Repayment behaviour is important.",
+      "A score is only one part of lending decisions."
+    ],
+    "quizzes": [
+      {
+        "question": "Which behaviour can negatively affect credit history?",
+        "options": [
+          "Regular on-time repayment",
+          "Repeated missed payments",
+          "Checking statements",
+          "Making a budget"
+        ],
+        "answerIndex": 1,
+        "explanation": "Repeated missed payments can harm credit history."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Credit Scores?",
+        "options": [
+          "Credit history matters.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Credit history matters."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "simple-vs-compound-interest",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "Simple vs Compound Interest",
+    "summary": "Understand the core difference between two common interest calculations.",
+    "duration": "6 min",
+    "xp": 45,
+    "concept": "Understand the core difference between two common interest calculations. Simple interest is calculated on the original principal, while compound interest can be calculated on principal plus previously accumulated interest.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Simple interest uses original principal. Compound interest can include accumulated interest. Compounding frequency affects outcomes.",
+    "example": "With compounding, growth can accelerate because earlier interest may itself begin earning interest. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Simple interest uses original principal.",
+      "Compound interest can include accumulated interest.",
+      "Compounding frequency affects outcomes."
+    ],
+    "sourceLabel": "NCFE / basic interest concepts",
+    "exampleExplanation": [
+      "Simple interest uses original principal.",
+      "Compound interest can include accumulated interest.",
+      "Compounding frequency affects outcomes."
+    ],
+    "quizzes": [
+      {
+        "question": "What makes compound interest different?",
+        "options": [
+          "It ignores previous interest",
+          "It can earn interest on accumulated interest",
+          "It never changes",
+          "It applies only to cash"
+        ],
+        "answerIndex": 1,
+        "explanation": "Compound interest can apply interest to both principal and earlier accumulated interest."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Simple vs Compound Interest?",
+        "options": [
+          "Simple interest uses original principal.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Simple interest uses original principal."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "emi-basics",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "EMI Basics",
+    "summary": "Learn what an EMI represents in a loan repayment schedule.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Learn what an EMI represents in a loan repayment schedule. An EMI is a periodic loan repayment amount. It can include both principal repayment and interest, depending on the loan structure.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. EMI is a scheduled repayment amount. Interest increases total borrowing cost. Loan tenure can affect total interest paid.",
+    "example": "A borrower may pay the same scheduled EMI each month while the internal split between principal and interest changes over time. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "EMI is a scheduled repayment amount.",
+      "Interest increases total borrowing cost.",
+      "Loan tenure can affect total interest paid."
+    ],
+    "sourceLabel": "General lending concepts",
+    "exampleExplanation": [
+      "EMI is a scheduled repayment amount.",
+      "Interest increases total borrowing cost.",
+      "Loan tenure can affect total interest paid."
+    ],
+    "quizzes": [
+      {
+        "question": "What does an EMI generally represent?",
+        "options": [
+          "A one-time bank gift",
+          "A periodic loan repayment",
+          "A tax refund",
+          "An investment dividend"
+        ],
+        "answerIndex": 1,
+        "explanation": "EMI refers to a periodic repayment on a loan."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on EMI Basics?",
+        "options": [
+          "EMI is a scheduled repayment amount.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "EMI is a scheduled repayment amount."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "credit-cards-debt",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "Credit Card Debt",
+    "summary": "See why minimum payments can become expensive when balances persist.",
+    "duration": "5 min",
+    "xp": 45,
+    "concept": "See why minimum payments can become expensive when balances persist. Credit cards can be useful payment tools, but carrying unpaid balances may lead to high interest and fees depending on the issuer's terms.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Read issuer terms carefully. Carrying balances can be costly. Minimum payment is not the same as full repayment.",
+    "example": "Paying only a small portion of a large balance can keep debt outstanding longer and increase total interest cost. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Read issuer terms carefully.",
+      "Carrying balances can be costly.",
+      "Minimum payment is not the same as full repayment."
+    ],
+    "sourceLabel": "General credit-card literacy",
+    "exampleExplanation": [
+      "Read issuer terms carefully.",
+      "Carrying balances can be costly.",
+      "Minimum payment is not the same as full repayment."
+    ],
+    "quizzes": [
+      {
+        "question": "What is the safest interpretation of a minimum payment?",
+        "options": [
+          "It means the full balance is cleared",
+          "It is only the minimum required payment",
+          "It removes all interest",
+          "It increases your salary"
+        ],
+        "answerIndex": 1,
+        "explanation": "A minimum payment does not necessarily clear the full outstanding balance."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Credit Card Debt?",
+        "options": [
+          "Read issuer terms carefully.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Read issuer terms carefully."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "debt-traps",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "Debt Traps",
+    "summary": "Recognize borrowing patterns that can become difficult to escape.",
+    "duration": "6 min",
+    "xp": 45,
+    "concept": "Recognize borrowing patterns that can become difficult to escape. A debt trap can occur when a borrower repeatedly takes new debt to meet old obligations, causing repayment pressure to grow.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Borrowing to repay borrowing is risky. High-cost debt can compound financial stress. Early action is better than ignoring the problem.",
+    "example": "Using one high-cost loan to repay another without reducing spending or improving cash flow can worsen the problem. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Borrowing to repay borrowing is risky.",
+      "High-cost debt can compound financial stress.",
+      "Early action is better than ignoring the problem."
+    ],
+    "sourceLabel": "General debt-management concepts",
+    "exampleExplanation": [
+      "Borrowing to repay borrowing is risky.",
+      "High-cost debt can compound financial stress.",
+      "Early action is better than ignoring the problem."
+    ],
+    "quizzes": [
+      {
+        "question": "Which pattern is a warning sign of a debt trap?",
+        "options": [
+          "Saving regularly",
+          "Borrowing repeatedly to repay old debt",
+          "Tracking expenses",
+          "Building an emergency fund"
+        ],
+        "answerIndex": 1,
+        "explanation": "Repeatedly taking new debt to service old debt is a classic warning sign."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Debt Traps?",
+        "options": [
+          "Borrowing to repay borrowing is risky.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Borrowing to repay borrowing is risky."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "risk-vs-return",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Risk vs Return",
+    "summary": "Learn why higher potential returns usually come with uncertainty.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Learn why higher potential returns usually come with uncertainty. Investment return is what you gain or lose from an investment, while risk describes uncertainty around outcomes. Higher expected return often comes with greater risk, but higher risk never guarantees higher return.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Return can be positive or negative. Risk means uncertainty. Higher risk does not guarantee profit.",
+    "example": "A bank deposit and an equity investment can have very different levels of uncertainty and potential return. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Return can be positive or negative.",
+      "Risk means uncertainty.",
+      "Higher risk does not guarantee profit."
+    ],
+    "sourceLabel": "SEBI / investor-education concepts",
+    "exampleExplanation": [
+      "Return can be positive or negative.",
+      "Risk means uncertainty.",
+      "Higher risk does not guarantee profit."
+    ],
+    "quizzes": [
+      {
+        "question": "Which statement is correct?",
+        "options": [
+          "High risk guarantees high return",
+          "Risk means uncertainty",
+          "All investments are equally risky",
+          "Returns can never be negative"
+        ],
+        "answerIndex": 1,
+        "explanation": "Risk refers to uncertainty in outcomes, not guaranteed profit."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Risk vs Return?",
+        "options": [
+          "Return can be positive or negative.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Return can be positive or negative."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "stocks-basics",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Stocks",
+    "summary": "Understand what owning a share of a company means.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Understand what owning a share of a company means. A stock or share generally represents an ownership interest in a company. Its market price can rise or fall based on many factors.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Shares represent ownership interest. Prices can fluctuate. Returns are not guaranteed.",
+    "example": "Owning shares in a listed company makes you a shareholder, but it does not guarantee dividends or price gains. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Shares represent ownership interest.",
+      "Prices can fluctuate.",
+      "Returns are not guaranteed."
+    ],
+    "sourceLabel": "SEBI / equity-market basics",
+    "exampleExplanation": [
+      "Shares represent ownership interest.",
+      "Prices can fluctuate.",
+      "Returns are not guaranteed."
+    ],
+    "quizzes": [
+      {
+        "question": "Buying a company's share generally makes you:",
+        "options": [
+          "A lender to the government",
+          "A shareholder",
+          "An employee automatically",
+          "A bank manager"
+        ],
+        "answerIndex": 1,
+        "explanation": "A share generally represents an ownership interest in the company."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Stocks?",
+        "options": [
+          "Shares represent ownership interest.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Shares represent ownership interest."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "bonds-basics",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Bonds",
+    "summary": "Learn how debt securities differ from ownership securities.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Learn how debt securities differ from ownership securities. A bond is generally a debt instrument in which an investor lends money to an issuer under specified terms. Bonds can still carry risks, including credit and interest-rate risk.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Bonds are debt instruments. Bond investors are generally creditors. Bonds are not risk-free by default.",
+    "example": "When an entity issues a bond, investors are generally lending money rather than buying ownership in the issuer. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Bonds are debt instruments.",
+      "Bond investors are generally creditors.",
+      "Bonds are not risk-free by default."
+    ],
+    "sourceLabel": "SEBI / debt-market basics",
+    "exampleExplanation": [
+      "Bonds are debt instruments.",
+      "Bond investors are generally creditors.",
+      "Bonds are not risk-free by default."
+    ],
+    "quizzes": [
+      {
+        "question": "A bond investor is generally:",
+        "options": [
+          "Buying company ownership",
+          "Lending money to an issuer",
+          "Buying a house",
+          "Receiving free insurance"
+        ],
+        "answerIndex": 1,
+        "explanation": "Bonds generally represent lending rather than ownership."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Bonds?",
+        "options": [
+          "Bonds are debt instruments.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Bonds are debt instruments."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "mutual-funds-sip",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Mutual Funds & SIPs",
+    "summary": "Understand pooled investing and systematic contributions.",
+    "duration": "6 min",
+    "xp": 45,
+    "concept": "Understand pooled investing and systematic contributions. A mutual fund pools money from multiple investors into a portfolio managed according to a stated investment objective. A SIP is a method of investing a fixed amount periodically into a mutual fund.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Mutual funds pool investor money. SIP is a contribution method, not an asset class. Fund objectives and risks differ.",
+    "example": "An investor may choose to invest ₹1,000 every month through a SIP rather than investing a large amount at once. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Mutual funds pool investor money.",
+      "SIP is a contribution method, not an asset class.",
+      "Fund objectives and risks differ."
+    ],
+    "sourceLabel": "SEBI / mutual-fund investor education",
+    "exampleExplanation": [
+      "Mutual funds pool investor money.",
+      "SIP is a contribution method, not an asset class.",
+      "Fund objectives and risks differ."
+    ],
+    "quizzes": [
+      {
+        "question": "What is a SIP?",
+        "options": [
+          "A type of bank loan",
+          "A periodic method of investing",
+          "A guaranteed profit scheme",
+          "A tax bill"
+        ],
+        "answerIndex": 1,
+        "explanation": "A SIP is a method of investing a fixed amount periodically, commonly into mutual funds."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Mutual Funds & SIPs?",
+        "options": [
+          "Mutual funds pool investor money.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Mutual funds pool investor money."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "diversification",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Diversification",
+    "summary": "Learn why spreading exposure can reduce concentration risk.",
+    "duration": "5 min",
+    "xp": 45,
+    "concept": "Learn why spreading exposure can reduce concentration risk. Diversification means spreading investments across different assets, sectors or categories so that one weak holding has less impact on the entire portfolio.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Diversification reduces concentration risk. It does not eliminate all risk. Too much exposure to one asset increases dependence on it.",
+    "example": "Owning only one stock creates more concentration risk than holding a broader mix of unrelated investments. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Diversification reduces concentration risk.",
+      "It does not eliminate all risk.",
+      "Too much exposure to one asset increases dependence on it."
+    ],
+    "sourceLabel": "SEBI / portfolio-risk concepts",
+    "exampleExplanation": [
+      "Diversification reduces concentration risk.",
+      "It does not eliminate all risk.",
+      "Too much exposure to one asset increases dependence on it."
+    ],
+    "quizzes": [
+      {
+        "question": "What is the main purpose of diversification?",
+        "options": [
+          "Guarantee profits",
+          "Reduce concentration risk",
+          "Avoid all market movement",
+          "Double returns"
+        ],
+        "answerIndex": 1,
+        "explanation": "Diversification is mainly used to reduce dependence on a small number of holdings."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Diversification?",
+        "options": [
+          "Diversification reduces concentration risk.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Diversification reduces concentration risk."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "income-tax-basics",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Income Tax Basics",
+    "summary": "Understand the basic idea of taxable income and tax obligations.",
+    "duration": "6 min",
+    "xp": 40,
+    "concept": "Understand the basic idea of taxable income and tax obligations. Income tax is a tax imposed on taxable income according to applicable law. Rules, slabs, deductions and filing requirements can change, so current official guidance should be checked.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Tax rules can change. Taxable income is not always the same as gross income. Use current official sources.",
+    "example": "A learner should not rely on an old social-media post for current tax rules; official government tax sources should be used. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Tax rules can change.",
+      "Taxable income is not always the same as gross income.",
+      "Use current official sources."
+    ],
+    "sourceLabel": "Income Tax Department / general tax-literacy concepts",
+    "exampleExplanation": [
+      "Tax rules can change.",
+      "Taxable income is not always the same as gross income.",
+      "Use current official sources."
+    ],
+    "quizzes": [
+      {
+        "question": "Why should tax information be checked against current official rules?",
+        "options": [
+          "Because tax rules never change",
+          "Because slabs and deductions can change",
+          "Because taxes are optional",
+          "Because only banks know tax law"
+        ],
+        "answerIndex": 1,
+        "explanation": "Tax rules and thresholds can change over time."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Income Tax Basics?",
+        "options": [
+          "Tax rules can change.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Tax rules can change."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "tax-saving-concepts",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Tax-Saving Concepts",
+    "summary": "Learn the difference between reducing tax legally and chasing products blindly.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Learn the difference between reducing tax legally and chasing products blindly. Some financial products or deductions may receive tax treatment under current law, but tax benefits should not be the only reason to choose a financial product.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Tax benefit is only one factor. Product suitability still matters. Always verify current rules.",
+    "example": "A product with a tax benefit may still be unsuitable if its risk, lock-in or costs do not match your goals. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Tax benefit is only one factor.",
+      "Product suitability still matters.",
+      "Always verify current rules."
+    ],
+    "sourceLabel": "General tax-planning principles",
+    "exampleExplanation": [
+      "Tax benefit is only one factor.",
+      "Product suitability still matters.",
+      "Always verify current rules."
+    ],
+    "quizzes": [
+      {
+        "question": "Should tax benefit be the only reason to choose an investment product?",
+        "options": [
+          "Yes",
+          "No",
+          "Always if advertised",
+          "Only when friends say so"
+        ],
+        "answerIndex": 1,
+        "explanation": "Tax treatment is only one factor in a financial decision."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Tax-Saving Concepts?",
+        "options": [
+          "Tax benefit is only one factor.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Tax benefit is only one factor."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "insurance-basics",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Insurance Basics",
+    "summary": "Understand how insurance transfers certain financial risks.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Understand how insurance transfers certain financial risks. Insurance is a risk-management arrangement in which a policyholder pays a premium for specified protection subject to policy terms, exclusions and limits.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Insurance manages specified risks. Policy terms matter. Coverage is not unlimited.",
+    "example": "Health insurance may help cover eligible medical costs according to the policy, while exclusions and waiting periods can still apply. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Insurance manages specified risks.",
+      "Policy terms matter.",
+      "Coverage is not unlimited."
+    ],
+    "sourceLabel": "IRDAI / insurance-literacy concepts",
+    "exampleExplanation": [
+      "Insurance manages specified risks.",
+      "Policy terms matter.",
+      "Coverage is not unlimited."
+    ],
+    "quizzes": [
+      {
+        "question": "What should you review before buying insurance?",
+        "options": [
+          "Only the ad slogan",
+          "Policy terms, exclusions and coverage",
+          "Friends' opinions only",
+          "Nothing"
+        ],
+        "answerIndex": 1,
+        "explanation": "Coverage depends on the actual policy terms, exclusions and limits."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Insurance Basics?",
+        "options": [
+          "Insurance manages specified risks.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Insurance manages specified risks."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "term-vs-health-insurance",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Term vs Health Insurance",
+    "summary": "Understand that different insurance products protect against different risks.",
+    "duration": "5 min",
+    "xp": 45,
+    "concept": "Understand that different insurance products protect against different risks. Term life insurance and health insurance address different financial risks. Term insurance is generally related to life cover, while health insurance is generally related to eligible medical expenses under policy terms.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Different policies solve different problems. Coverage details vary. Compare terms, not only premiums.",
+    "example": "A person may need different types of protection because medical-cost risk and loss-of-income-to-dependents risk are not the same. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Different policies solve different problems.",
+      "Coverage details vary.",
+      "Compare terms, not only premiums."
+    ],
+    "sourceLabel": "IRDAI / insurance-literacy concepts",
+    "exampleExplanation": [
+      "Different policies solve different problems.",
+      "Coverage details vary.",
+      "Compare terms, not only premiums."
+    ],
+    "quizzes": [
+      {
+        "question": "Why might someone need both health and term insurance?",
+        "options": [
+          "They cover identical risks",
+          "They address different financial risks",
+          "They guarantee investment returns",
+          "They replace savings"
+        ],
+        "answerIndex": 1,
+        "explanation": "Health and term insurance are designed around different types of protection."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Term vs Health Insurance?",
+        "options": [
+          "Different policies solve different problems.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Different policies solve different problems."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "retirement-basics",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Retirement Planning Basics",
+    "summary": "See why long time horizons make early planning powerful.",
+    "duration": "6 min",
+    "xp": 45,
+    "concept": "See why long time horizons make early planning powerful. Retirement planning means building financial resources for a period when regular employment income may reduce or stop. Time horizon, inflation and expected expenses all matter.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Time horizon matters. Inflation affects future expenses. Starting early can improve flexibility.",
+    "example": "Starting earlier gives savings and investments more time to grow and can reduce the amount that must be contributed later. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Time horizon matters.",
+      "Inflation affects future expenses.",
+      "Starting early can improve flexibility."
+    ],
+    "sourceLabel": "NPS / retirement-planning concepts",
+    "exampleExplanation": [
+      "Time horizon matters.",
+      "Inflation affects future expenses.",
+      "Starting early can improve flexibility."
+    ],
+    "quizzes": [
+      {
+        "question": "Why can starting retirement planning early help?",
+        "options": [
+          "It guarantees profits",
+          "It gives money more time to grow",
+          "It removes inflation",
+          "It avoids all risk"
+        ],
+        "answerIndex": 1,
+        "explanation": "More time can allow contributions and potential compounding to work for longer."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Retirement Planning Basics?",
+        "options": [
+          "Time horizon matters.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Time horizon matters."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "loss-aversion",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "Loss Aversion",
+    "summary": "Learn why losses can feel more powerful than equal-sized gains.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Learn why losses can feel more powerful than equal-sized gains. Loss aversion describes the tendency for people to feel the pain of losses more strongly than the pleasure of comparable gains, which can distort financial decisions.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Emotions influence financial choices. Avoiding a realised loss can become irrational. Decision rules can reduce emotional reactions.",
+    "example": "An investor may hold a poor investment too long simply because selling would make the loss feel 'real'. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Emotions influence financial choices.",
+      "Avoiding a realised loss can become irrational.",
+      "Decision rules can reduce emotional reactions."
+    ],
+    "sourceLabel": "Behavioural-finance concepts",
+    "exampleExplanation": [
+      "Emotions influence financial choices.",
+      "Avoiding a realised loss can become irrational.",
+      "Decision rules can reduce emotional reactions."
+    ],
+    "quizzes": [
+      {
+        "question": "Loss aversion can cause an investor to:",
+        "options": [
+          "Ignore all emotions",
+          "Hold a poor investment only to avoid realising a loss",
+          "Always diversify perfectly",
+          "Guarantee profit"
+        ],
+        "answerIndex": 1,
+        "explanation": "Loss aversion can make people avoid accepting a loss even when circumstances have changed."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Loss Aversion?",
+        "options": [
+          "Emotions influence financial choices.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Emotions influence financial choices."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "herd-behaviour",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "Herd Behaviour",
+    "summary": "Understand why people copy the crowd even without strong evidence.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Understand why people copy the crowd even without strong evidence. Herd behaviour occurs when people follow what others are doing instead of independently evaluating information.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Popularity is not evidence of value. Crowds can be wrong. Independent reasoning matters.",
+    "example": "A stock trending on social media may attract buyers simply because everyone appears to be buying it. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Popularity is not evidence of value.",
+      "Crowds can be wrong.",
+      "Independent reasoning matters."
+    ],
+    "sourceLabel": "Behavioural-finance concepts",
+    "exampleExplanation": [
+      "Popularity is not evidence of value.",
+      "Crowds can be wrong.",
+      "Independent reasoning matters."
+    ],
+    "quizzes": [
+      {
+        "question": "What is herd behaviour?",
+        "options": [
+          "Independent analysis",
+          "Following the crowd without enough evaluation",
+          "Reading disclosures",
+          "Diversifying"
+        ],
+        "answerIndex": 1,
+        "explanation": "Herd behaviour means copying others rather than relying on independent evaluation."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Herd Behaviour?",
+        "options": [
+          "Popularity is not evidence of value.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Popularity is not evidence of value."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "fomo",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "FOMO",
+    "summary": "See how fear of missing out can push people into rushed financial decisions.",
+    "duration": "4 min",
+    "xp": 35,
+    "concept": "See how fear of missing out can push people into rushed financial decisions. FOMO is the fear that others are benefiting from an opportunity that you are missing, which can encourage impulsive decisions.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Urgency can weaken judgement. Social proof can amplify FOMO. A decision process helps slow impulsive choices.",
+    "example": "Seeing people post large crypto gains may tempt someone to invest immediately without understanding the asset or risk. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Urgency can weaken judgement.",
+      "Social proof can amplify FOMO.",
+      "A decision process helps slow impulsive choices."
+    ],
+    "sourceLabel": "Behavioural-finance concepts",
+    "exampleExplanation": [
+      "Urgency can weaken judgement.",
+      "Social proof can amplify FOMO.",
+      "A decision process helps slow impulsive choices."
+    ],
+    "quizzes": [
+      {
+        "question": "What is a useful response to FOMO?",
+        "options": [
+          "Act immediately",
+          "Pause and evaluate the decision",
+          "Borrow heavily",
+          "Ignore risk"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pausing and evaluating evidence helps reduce impulsive decisions."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on FOMO?",
+        "options": [
+          "Urgency can weaken judgement.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Urgency can weaken judgement."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "overconfidence",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "Overconfidence",
+    "summary": "Learn how believing too strongly in your own judgement can increase risk.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Learn how believing too strongly in your own judgement can increase risk. Overconfidence is the tendency to overestimate one's knowledge, skill or ability to predict outcomes.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Past success does not prove permanent skill. Confidence and accuracy are different. Check decisions against evidence.",
+    "example": "After a few successful trades, a beginner may assume they can consistently beat the market and take much larger risks. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Past success does not prove permanent skill.",
+      "Confidence and accuracy are different.",
+      "Check decisions against evidence."
+    ],
+    "sourceLabel": "Behavioural-finance concepts",
+    "exampleExplanation": [
+      "Past success does not prove permanent skill.",
+      "Confidence and accuracy are different.",
+      "Check decisions against evidence."
+    ],
+    "quizzes": [
+      {
+        "question": "Which is an example of overconfidence?",
+        "options": [
+          "Reviewing mistakes",
+          "Assuming a few wins prove permanent skill",
+          "Diversifying",
+          "Reading risk disclosures"
+        ],
+        "answerIndex": 1,
+        "explanation": "Overconfidence can make people mistake short-term success for reliable skill."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Overconfidence?",
+        "options": [
+          "Past success does not prove permanent skill.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Past success does not prove permanent skill."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "anchoring",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "Anchoring",
+    "summary": "Understand why the first number you see can distort later judgement.",
+    "duration": "5 min",
+    "xp": 40,
+    "concept": "Understand why the first number you see can distort later judgement. Anchoring happens when people rely too heavily on an initial number or reference point, even when it is no longer relevant.\n\nIn practice, this concept is useful because it changes how you compare choices instead of relying on instinct alone. Initial numbers can distort judgement. Purchase price does not determine future value. Use current evidence instead of emotional reference points.",
+    "example": "An investor may insist that a stock 'should return' to ₹500 simply because that was the price when they bought it. This example turns the definition into a concrete decision or calculation you could actually face.",
+    "keyPoints": [
+      "Initial numbers can distort judgement.",
+      "Purchase price does not determine future value.",
+      "Use current evidence instead of emotional reference points."
+    ],
+    "sourceLabel": "Behavioural-finance concepts",
+    "exampleExplanation": [
+      "Initial numbers can distort judgement.",
+      "Purchase price does not determine future value.",
+      "Use current evidence instead of emotional reference points."
+    ],
+    "quizzes": [
+      {
+        "question": "Which is an example of anchoring?",
+        "options": [
+          "Re-evaluating with new information",
+          "Fixating on the original purchase price",
+          "Diversifying",
+          "Checking a balance sheet"
+        ],
+        "answerIndex": 1,
+        "explanation": "Anchoring occurs when an old reference point dominates current judgement."
+      },
+      {
+        "question": "Which statement is most consistent with the lesson on Anchoring?",
+        "options": [
+          "Initial numbers can distort judgement.",
+          "The concept guarantees profit or a perfect outcome",
+          "The details never matter",
+          "The safest choice is always to ignore the information"
+        ],
+        "answerIndex": 0,
+        "explanation": "Initial numbers can distort judgement."
+      },
+      {
+        "question": "Which approach best applies this lesson in real life?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one successful outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "The lesson is meant to improve decision quality by connecting facts, terms, risks and your personal goal."
+      }
+    ]
+  },
+  {
+    "id": "needs-vs-wants",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Needs vs Wants",
+    "summary": "Separate essential spending from flexible spending without treating the boundary as perfectly fixed.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Separate essential spending from flexible spending without treating the boundary as perfectly fixed. A need is generally important for basic living or obligations, while a want is more flexible and can often be delayed, reduced or substituted. Context matters, so the goal is not to judge spending morally but to identify which costs can change when money is tight.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Needs and wants depend on context. Flexible spending is easier to adjust quickly. Classifying expenses improves budgeting decisions.",
+    "example": "A student needs transport to college, but can choose between a ₹700 bus pass and ₹2,500 of ride-hailing. Transport is necessary; the more expensive method is the flexible part. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Needs and wants depend on context.",
+      "Flexible spending is easier to adjust quickly.",
+      "Classifying expenses improves budgeting decisions."
+    ],
+    "keyPoints": [
+      "Needs and wants depend on context.",
+      "Flexible spending is easier to adjust quickly.",
+      "Classifying expenses improves budgeting decisions."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes needs vs wants?",
+        "options": [
+          "A need is generally important for basic living or obligations, while a want is more flexible and can often be delayed, reduced or substituted. Context matters, so the goal is not to judge spending morally but to identify which costs can change when money is tight.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "A need is generally important for basic living or obligations, while a want is more flexible and can often be delayed, reduced or substituted. Context matters, so the goal is not to judge spending morally but to identify which costs can change when money is tight."
+      },
+      {
+        "question": "Which option is usually more flexible when money is tight?",
+        "options": [
+          "An optional streaming subscription",
+          "A required exam fee",
+          "Basic medication",
+          "Rent already due"
+        ],
+        "answerIndex": 0,
+        "explanation": "An optional subscription can usually be paused or cancelled more easily than essential obligations."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "cash-flow",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Cash Flow",
+    "summary": "Understand not only how much money you have, but when it enters and leaves your account.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Understand not only how much money you have, but when it enters and leaves your account. Cash flow describes the movement and timing of money in and out over a period. A person can have enough total monthly income and still face trouble if a large bill arrives before the income does.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Timing matters as much as totals. Upcoming bills should be visible before they are due. A cash buffer can smooth uneven inflows and outflows.",
+    "example": "Your stipend arrives on the 10th, but rent is due on the 1st. Without a buffer, you have a timing problem even if the stipend is large enough to cover the rent later. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Timing matters as much as totals.",
+      "Upcoming bills should be visible before they are due.",
+      "A cash buffer can smooth uneven inflows and outflows."
+    ],
+    "keyPoints": [
+      "Timing matters as much as totals.",
+      "Upcoming bills should be visible before they are due.",
+      "A cash buffer can smooth uneven inflows and outflows."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes cash flow?",
+        "options": [
+          "Cash flow describes the movement and timing of money in and out over a period. A person can have enough total monthly income and still face trouble if a large bill arrives before the income does.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Cash flow describes the movement and timing of money in and out over a period. A person can have enough total monthly income and still face trouble if a large bill arrives before the income does."
+      },
+      {
+        "question": "Income arrives on the 15th but a bill is due on the 5th. What is the main issue?",
+        "options": [
+          "Cash-flow timing",
+          "Inflation",
+          "Diversification",
+          "Credit score"
+        ],
+        "answerIndex": 0,
+        "explanation": "The money arrives after the obligation is due, so the problem is timing."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "time-value-money",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Time Value of Money",
+    "summary": "Learn why money available at different times can have different economic value.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn why money available at different times can have different economic value. Money available today can be saved, invested or spent now, while the same nominal amount received later has missed that time and may also have lost purchasing power to inflation. This idea connects saving, borrowing and investing.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Time can change the economic value of money. Compounding makes longer periods important. Inflation can reduce future purchasing power.",
+    "example": "₹10,000 available today could earn a return for two years. ₹10,000 received two years later has missed that earning period. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Time can change the economic value of money.",
+      "Compounding makes longer periods important.",
+      "Inflation can reduce future purchasing power."
+    ],
+    "keyPoints": [
+      "Time can change the economic value of money.",
+      "Compounding makes longer periods important.",
+      "Inflation can reduce future purchasing power."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes time value of money?",
+        "options": [
+          "Money available today can be saved, invested or spent now, while the same nominal amount received later has missed that time and may also have lost purchasing power to inflation. This idea connects saving, borrowing and investing.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Money available today can be saved, invested or spent now, while the same nominal amount received later has missed that time and may also have lost purchasing power to inflation. This idea connects saving, borrowing and investing."
+      },
+      {
+        "question": "Why can ₹10,000 today be more useful than ₹10,000 years later?",
+        "options": [
+          "It has time to potentially earn a return",
+          "The number 10,000 changes",
+          "Future money is illegal",
+          "Banks refuse future money"
+        ],
+        "answerIndex": 0,
+        "explanation": "Money available earlier has more time to be used, saved or invested."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "net-worth",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Net Worth",
+    "summary": "Create a simple snapshot of what you own minus what you owe.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Create a simple snapshot of what you own minus what you owe. Net worth equals total assets minus total liabilities. It is different from income because it measures a balance-sheet-style position at one point in time rather than monthly earnings.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Net worth equals assets minus liabilities. Income and net worth measure different things. Reducing debt can improve net worth.",
+    "example": "You have ₹80,000 of assets and ₹20,000 of liabilities. Your simplified net worth is ₹60,000. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Net worth equals assets minus liabilities.",
+      "Income and net worth measure different things.",
+      "Reducing debt can improve net worth."
+    ],
+    "keyPoints": [
+      "Net worth equals assets minus liabilities.",
+      "Income and net worth measure different things.",
+      "Reducing debt can improve net worth."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes net worth?",
+        "options": [
+          "Net worth equals total assets minus total liabilities. It is different from income because it measures a balance-sheet-style position at one point in time rather than monthly earnings.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Net worth equals total assets minus total liabilities. It is different from income because it measures a balance-sheet-style position at one point in time rather than monthly earnings."
+      },
+      {
+        "question": "Assets are ₹1,20,000 and liabilities are ₹45,000. What is net worth?",
+        "options": [
+          "₹75,000",
+          "₹65,000",
+          "₹1,65,000",
+          "₹45,000"
+        ],
+        "answerIndex": 0,
+        "explanation": "₹1,20,000 − ₹45,000 = ₹75,000."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "money-review",
+    "trackId": "money-basics",
+    "track": "Money Basics",
+    "title": "Monthly Money Review",
+    "summary": "Turn personal finance into a repeatable feedback loop rather than a one-time plan.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Turn personal finance into a repeatable feedback loop rather than a one-time plan. A monthly money review compares planned income, spending and saving with what actually happened. The purpose is to spot patterns and make one or two useful adjustments for the next month.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Compare actual results with your plan. Look for useful patterns rather than perfection. Repeat the review consistently.",
+    "example": "Your saving target was ₹4,000 but you saved ₹3,200 and notice food delivery was ₹900 above budget. The review gives you a specific place to adjust. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Compare actual results with your plan.",
+      "Look for useful patterns rather than perfection.",
+      "Repeat the review consistently."
+    ],
+    "keyPoints": [
+      "Compare actual results with your plan.",
+      "Look for useful patterns rather than perfection.",
+      "Repeat the review consistently."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes monthly money review?",
+        "options": [
+          "A monthly money review compares planned income, spending and saving with what actually happened. The purpose is to spot patterns and make one or two useful adjustments for the next month.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "A monthly money review compares planned income, spending and saving with what actually happened. The purpose is to spot patterns and make one or two useful adjustments for the next month."
+      },
+      {
+        "question": "Your target was ₹4,000 and you saved ₹3,200. What is the shortfall?",
+        "options": [
+          "₹800",
+          "₹400",
+          "₹1,200",
+          "₹7,200"
+        ],
+        "answerIndex": 0,
+        "explanation": "₹4,000 − ₹3,200 = ₹800."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "savings-vs-current",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "Savings vs Current Accounts",
+    "summary": "Understand why bank account types are designed for different patterns of use.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Understand why bank account types are designed for different patterns of use. Savings accounts are commonly designed for personal saving and transactions, while current accounts are commonly designed for frequent business transactions. Exact features vary by bank, so the label alone does not tell you the full cost or limits.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Account type should match transaction needs. Features differ across banks and products. Always check current terms.",
+    "example": "A college student may use a savings account, while a shop processing many daily payments may prefer a current account suited to business activity. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Account type should match transaction needs.",
+      "Features differ across banks and products.",
+      "Always check current terms."
+    ],
+    "keyPoints": [
+      "Account type should match transaction needs.",
+      "Features differ across banks and products.",
+      "Always check current terms."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes savings vs current accounts?",
+        "options": [
+          "Savings accounts are commonly designed for personal saving and transactions, while current accounts are commonly designed for frequent business transactions. Exact features vary by bank, so the label alone does not tell you the full cost or limits.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Savings accounts are commonly designed for personal saving and transactions, while current accounts are commonly designed for frequent business transactions. Exact features vary by bank, so the label alone does not tell you the full cost or limits."
+      },
+      {
+        "question": "Who is more likely to need a high-frequency business account?",
+        "options": [
+          "A shop processing many payments",
+          "A student holding pocket money",
+          "Someone comparing insurance",
+          "Someone reading a stock chart"
+        ],
+        "answerIndex": 0,
+        "explanation": "Frequent business transactions are a common reason for a current account."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "bank-interest",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "Interest in Bank Accounts",
+    "summary": "Learn how interest can affect money kept in eligible bank accounts or deposits.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn how interest can affect money kept in eligible bank accounts or deposits. Interest is an amount paid or charged for the use of money. In some deposit products, the bank may pay interest on eligible balances, but rates, compounding and withdrawal conditions can differ.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Interest depends on rate, time and product rules. Compounding can change outcomes. Compare full terms, not only headline rates.",
+    "example": "At 5% simple interest for one year, ₹20,000 would earn ₹1,000 in a simplified example before taxes or product-specific rules. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Interest depends on rate, time and product rules.",
+      "Compounding can change outcomes.",
+      "Compare full terms, not only headline rates."
+    ],
+    "keyPoints": [
+      "Interest depends on rate, time and product rules.",
+      "Compounding can change outcomes.",
+      "Compare full terms, not only headline rates."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes interest in bank accounts?",
+        "options": [
+          "Interest is an amount paid or charged for the use of money. In some deposit products, the bank may pay interest on eligible balances, but rates, compounding and withdrawal conditions can differ.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Interest is an amount paid or charged for the use of money. In some deposit products, the bank may pay interest on eligible balances, but rates, compounding and withdrawal conditions can differ."
+      },
+      {
+        "question": "At 5% simple interest for one year, what is the interest on ₹20,000?",
+        "options": [
+          "₹1,000",
+          "₹500",
+          "₹2,000",
+          "₹25,000"
+        ],
+        "answerIndex": 0,
+        "explanation": "5% of ₹20,000 is ₹1,000."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "neft-rtgs-imps",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "NEFT, RTGS & IMPS Overview",
+    "summary": "Understand that India has multiple electronic transfer systems with different characteristics.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Understand that India has multiple electronic transfer systems with different characteristics. NEFT, RTGS and IMPS are electronic transfer systems used to move funds between eligible bank accounts under their operating rules. Availability, settlement, limits and charges can differ and may change over time.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Different payment rails serve different needs. Limits and charges can vary. Use current official information for actual transfers.",
+    "example": "Before sending an urgent or large transfer, you check your bank’s current rules instead of assuming every transfer rail behaves identically. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Different payment rails serve different needs.",
+      "Limits and charges can vary.",
+      "Use current official information for actual transfers."
+    ],
+    "keyPoints": [
+      "Different payment rails serve different needs.",
+      "Limits and charges can vary.",
+      "Use current official information for actual transfers."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes neft, rtgs & imps overview?",
+        "options": [
+          "NEFT, RTGS and IMPS are electronic transfer systems used to move funds between eligible bank accounts under their operating rules. Availability, settlement, limits and charges can differ and may change over time.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "NEFT, RTGS and IMPS are electronic transfer systems used to move funds between eligible bank accounts under their operating rules. Availability, settlement, limits and charges can differ and may change over time."
+      },
+      {
+        "question": "Why should current bank rules be checked before choosing a transfer method?",
+        "options": [
+          "Limits and conditions can differ",
+          "All methods are identical",
+          "Transfers never have limits",
+          "Only cash can be used"
+        ],
+        "answerIndex": 0,
+        "explanation": "Different transfer systems and banks can have different current conditions."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "atm-card-safety",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "ATM & Card Safety",
+    "summary": "Use simple physical-security habits to reduce avoidable card risk.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Use simple physical-security habits to reduce avoidable card risk. ATM and card safety includes protecting the PIN, checking the machine and reviewing transactions. Small habits matter because theft, observation and tampered devices can expose credentials.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Keep the PIN private. Report lost cards quickly. Review alerts for unfamiliar transactions.",
+    "example": "At an ATM, you shield the keypad, avoid unsolicited help and check the machine before inserting the card. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Keep the PIN private.",
+      "Report lost cards quickly.",
+      "Review alerts for unfamiliar transactions."
+    ],
+    "keyPoints": [
+      "Keep the PIN private.",
+      "Report lost cards quickly.",
+      "Review alerts for unfamiliar transactions."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes atm & card safety?",
+        "options": [
+          "ATM and card safety includes protecting the PIN, checking the machine and reviewing transactions. Small habits matter because theft, observation and tampered devices can expose credentials.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "ATM and card safety includes protecting the PIN, checking the machine and reviewing transactions. Small habits matter because theft, observation and tampered devices can expose credentials."
+      },
+      {
+        "question": "Which is the safest ATM habit?",
+        "options": [
+          "Shield the keypad",
+          "Say the PIN aloud",
+          "Accept help from any stranger",
+          "Leave the card unattended"
+        ],
+        "answerIndex": 0,
+        "explanation": "Shielding the keypad reduces the chance of someone observing your PIN."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "bank-statements",
+    "trackId": "banking-digital-money",
+    "track": "Banking & Digital Money",
+    "title": "Bank Statements & Reconciliation",
+    "summary": "Use account records as a financial control tool.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Use account records as a financial control tool. A bank statement records account activity, while reconciliation means comparing those records with what you expected. Regular review can reveal forgotten subscriptions, duplicate charges, missing refunds or suspicious transactions.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Review statements regularly. Investigate unfamiliar or missing transactions. Use actual records to improve budgets.",
+    "example": "You expect a ₹1,200 refund but cannot find it on the statement. The mismatch tells you to follow up instead of assuming it arrived. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Review statements regularly.",
+      "Investigate unfamiliar or missing transactions.",
+      "Use actual records to improve budgets."
+    ],
+    "keyPoints": [
+      "Review statements regularly.",
+      "Investigate unfamiliar or missing transactions.",
+      "Use actual records to improve budgets."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes bank statements & reconciliation?",
+        "options": [
+          "A bank statement records account activity, while reconciliation means comparing those records with what you expected. Regular review can reveal forgotten subscriptions, duplicate charges, missing refunds or suspicious transactions.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "A bank statement records account activity, while reconciliation means comparing those records with what you expected. Regular review can reveal forgotten subscriptions, duplicate charges, missing refunds or suspicious transactions."
+      },
+      {
+        "question": "What is reconciliation mainly used for?",
+        "options": [
+          "Comparing expected and recorded transactions",
+          "Predicting stock prices",
+          "Choosing insurance",
+          "Calculating GDP"
+        ],
+        "answerIndex": 0,
+        "explanation": "Reconciliation checks whether your records match what actually happened."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "loan-principal",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "Loans & Principal",
+    "summary": "Learn the basic structure of borrowed money before interest and fees are added.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn the basic structure of borrowed money before interest and fees are added. The principal is the original amount borrowed. Interest and fees are additional borrowing costs, so total repayment can be greater than the principal.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Separate principal from borrowing cost. Read the repayment schedule. Know all fees before accepting a loan.",
+    "example": "You borrow ₹1,00,000. That is the principal; interest and applicable fees increase the amount you may ultimately pay. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Separate principal from borrowing cost.",
+      "Read the repayment schedule.",
+      "Know all fees before accepting a loan."
+    ],
+    "keyPoints": [
+      "Separate principal from borrowing cost.",
+      "Read the repayment schedule.",
+      "Know all fees before accepting a loan."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes loans & principal?",
+        "options": [
+          "The principal is the original amount borrowed. Interest and fees are additional borrowing costs, so total repayment can be greater than the principal.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "The principal is the original amount borrowed. Interest and fees are additional borrowing costs, so total repayment can be greater than the principal."
+      },
+      {
+        "question": "If you borrow ₹80,000 before interest and fees, what is the principal?",
+        "options": [
+          "₹80,000",
+          "₹8,000",
+          "The interest rate",
+          "The EMI date"
+        ],
+        "answerIndex": 0,
+        "explanation": "The principal is the original amount borrowed."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "secured-vs-unsecured",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "Secured vs Unsecured Loans",
+    "summary": "Understand how collateral changes the structure and risk of borrowing.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Understand how collateral changes the structure and risk of borrowing. A secured loan is backed by specified collateral, while an unsecured loan does not rely on pledged collateral in the same way. Collateral can reduce lender risk but can put the pledged asset at risk if repayment fails.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Collateral changes borrower and lender risk. Secured does not mean risk-free. Compare full terms, not only approval speed.",
+    "example": "A vehicle loan may use the vehicle as security, while a personal loan may be unsecured depending on the product. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Collateral changes borrower and lender risk.",
+      "Secured does not mean risk-free.",
+      "Compare full terms, not only approval speed."
+    ],
+    "keyPoints": [
+      "Collateral changes borrower and lender risk.",
+      "Secured does not mean risk-free.",
+      "Compare full terms, not only approval speed."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes secured vs unsecured loans?",
+        "options": [
+          "A secured loan is backed by specified collateral, while an unsecured loan does not rely on pledged collateral in the same way. Collateral can reduce lender risk but can put the pledged asset at risk if repayment fails.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "A secured loan is backed by specified collateral, while an unsecured loan does not rely on pledged collateral in the same way. Collateral can reduce lender risk but can put the pledged asset at risk if repayment fails."
+      },
+      {
+        "question": "What defines a secured loan?",
+        "options": [
+          "It is backed by specified collateral",
+          "It has no repayment",
+          "It always has zero interest",
+          "It needs no agreement"
+        ],
+        "answerIndex": 0,
+        "explanation": "A secured loan uses collateral as security."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "billing-cycle",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "Credit Card Billing Cycle",
+    "summary": "Learn how statement dates, due dates and repayment interact.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn how statement dates, due dates and repayment interact. A credit-card billing cycle groups transactions into a statement period. The statement date, due date, total amount due and minimum amount due are different pieces of information that help you manage repayment.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Know your statement and due dates. Total due and minimum due are different. Review charges before payment.",
+    "example": "Your statement closes on the 5th and payment is due on the 25th. Purchases inside that statement period appear together. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Know your statement and due dates.",
+      "Total due and minimum due are different.",
+      "Review charges before payment."
+    ],
+    "keyPoints": [
+      "Know your statement and due dates.",
+      "Total due and minimum due are different.",
+      "Review charges before payment."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes credit card billing cycle?",
+        "options": [
+          "A credit-card billing cycle groups transactions into a statement period. The statement date, due date, total amount due and minimum amount due are different pieces of information that help you manage repayment.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "A credit-card billing cycle groups transactions into a statement period. The statement date, due date, total amount due and minimum amount due are different pieces of information that help you manage repayment."
+      },
+      {
+        "question": "Which amount clears the billed balance most completely, assuming no new adjustments?",
+        "options": [
+          "Total amount due",
+          "Minimum amount due",
+          "Credit limit",
+          "Reward points"
+        ],
+        "answerIndex": 0,
+        "explanation": "The total amount due represents the billed balance."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "debt-to-income",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "Debt-to-Income Ratio",
+    "summary": "Use a simple ratio to see how much income is already committed to debt payments.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Use a simple ratio to see how much income is already committed to debt payments. A simplified debt-to-income ratio compares recurring debt payments with income over the same period. It is one indicator of borrowing pressure and monthly flexibility.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Use the same time period for debt and income. Higher debt commitments reduce flexibility. Treat the ratio as one indicator, not the only one.",
+    "example": "Monthly income is ₹50,000 and recurring debt payments are ₹15,000. The simplified ratio is 30%. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Use the same time period for debt and income.",
+      "Higher debt commitments reduce flexibility.",
+      "Treat the ratio as one indicator, not the only one."
+    ],
+    "keyPoints": [
+      "Use the same time period for debt and income.",
+      "Higher debt commitments reduce flexibility.",
+      "Treat the ratio as one indicator, not the only one."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes debt-to-income ratio?",
+        "options": [
+          "A simplified debt-to-income ratio compares recurring debt payments with income over the same period. It is one indicator of borrowing pressure and monthly flexibility.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "A simplified debt-to-income ratio compares recurring debt payments with income over the same period. It is one indicator of borrowing pressure and monthly flexibility."
+      },
+      {
+        "question": "Income is ₹40,000 and debt payments are ₹10,000. What is the ratio?",
+        "options": [
+          "25%",
+          "10%",
+          "40%",
+          "50%"
+        ],
+        "answerIndex": 0,
+        "explanation": "₹10,000 ÷ ₹40,000 = 25%."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "responsible-borrowing",
+    "trackId": "credit-debt",
+    "track": "Credit & Debt",
+    "title": "Responsible Borrowing Plan",
+    "summary": "Put affordability, purpose and repayment together before accepting debt.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Put affordability, purpose and repayment together before accepting debt. Responsible borrowing means taking debt for a clear purpose, understanding the full terms and having a realistic repayment plan. Approval does not automatically mean affordability.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Borrow for a clear purpose. Understand rate, fees and total repayment. Test repayment against your real budget.",
+    "example": "Before accepting a ₹6,000 EMI, you add it to rent, food and existing debt to check whether enough monthly buffer remains. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Borrow for a clear purpose.",
+      "Understand rate, fees and total repayment.",
+      "Test repayment against your real budget."
+    ],
+    "keyPoints": [
+      "Borrow for a clear purpose.",
+      "Understand rate, fees and total repayment.",
+      "Test repayment against your real budget."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes responsible borrowing plan?",
+        "options": [
+          "Responsible borrowing means taking debt for a clear purpose, understanding the full terms and having a realistic repayment plan. Approval does not automatically mean affordability.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Responsible borrowing means taking debt for a clear purpose, understanding the full terms and having a realistic repayment plan. Approval does not automatically mean affordability."
+      },
+      {
+        "question": "What should happen before accepting a new EMI?",
+        "options": [
+          "Check whether it fits the full monthly budget",
+          "Assume approval means affordability",
+          "Ignore existing debt",
+          "Choose the longest tenure automatically"
+        ],
+        "answerIndex": 0,
+        "explanation": "Affordability should be tested against actual income and obligations."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "index-funds-etfs",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Index Funds & ETFs",
+    "summary": "Understand two common ways investors seek broad market exposure.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Understand two common ways investors seek broad market exposure. Index funds aim to track a specified market index, while ETFs are funds whose units trade on an exchange. Costs, liquidity, tracking difference and underlying exposure still matter.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Index products follow a benchmark methodology. ETFs trade on exchanges. Compare cost and underlying exposure.",
+    "example": "A broad index fund can give exposure to many companies through one product instead of requiring you to buy each company separately. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Index products follow a benchmark methodology.",
+      "ETFs trade on exchanges.",
+      "Compare cost and underlying exposure."
+    ],
+    "keyPoints": [
+      "Index products follow a benchmark methodology.",
+      "ETFs trade on exchanges.",
+      "Compare cost and underlying exposure."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes index funds & etfs?",
+        "options": [
+          "Index funds aim to track a specified market index, while ETFs are funds whose units trade on an exchange. Costs, liquidity, tracking difference and underlying exposure still matter.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Index funds aim to track a specified market index, while ETFs are funds whose units trade on an exchange. Costs, liquidity, tracking difference and underlying exposure still matter."
+      },
+      {
+        "question": "What is a common feature of an index fund?",
+        "options": [
+          "It aims to track a specified index",
+          "It guarantees outperformance",
+          "It holds only cash",
+          "It has no market risk"
+        ],
+        "answerIndex": 0,
+        "explanation": "An index fund is designed to follow a chosen benchmark."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "market-volatility",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Market Volatility",
+    "summary": "Learn what price movement means and why short-term noise can feel larger than long-term plans.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn what price movement means and why short-term noise can feel larger than long-term plans. Volatility describes how much prices move up and down over time. High volatility can create emotional pressure, so investors should distinguish price movement from a genuine change in the reason they own an investment.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Volatility is price fluctuation. Short-term movement can be emotionally powerful. Time horizon helps frame volatility.",
+    "example": "A diversified equity portfolio falls 8% in one month even though the goal is 15 years away. The investor reviews the plan instead of reacting only to the drop. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Volatility is price fluctuation.",
+      "Short-term movement can be emotionally powerful.",
+      "Time horizon helps frame volatility."
+    ],
+    "keyPoints": [
+      "Volatility is price fluctuation.",
+      "Short-term movement can be emotionally powerful.",
+      "Time horizon helps frame volatility."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes market volatility?",
+        "options": [
+          "Volatility describes how much prices move up and down over time. High volatility can create emotional pressure, so investors should distinguish price movement from a genuine change in the reason they own an investment.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Volatility describes how much prices move up and down over time. High volatility can create emotional pressure, so investors should distinguish price movement from a genuine change in the reason they own an investment."
+      },
+      {
+        "question": "A long-term investor sees a one-week market drop. What should they examine first?",
+        "options": [
+          "Whether the long-term thesis or goal changed",
+          "Only social-media panic",
+          "Only one day’s price",
+          "Nothing at all"
+        ],
+        "answerIndex": 0,
+        "explanation": "A decision should be based on the plan and relevant information, not only short-term emotion."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "asset-allocation",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Asset Allocation",
+    "summary": "Learn how a portfolio can divide money across broad asset categories.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn how a portfolio can divide money across broad asset categories. Asset allocation is the decision about how much of a portfolio is placed in broad categories such as equity, debt and cash-like assets. Different goals can justify different mixes.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Asset allocation is about broad portfolio mix. Different goals can require different mixes. Review allocation when goals change.",
+    "example": "Money needed for next year’s tuition may use a different mix from money intended for retirement decades away. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Asset allocation is about broad portfolio mix.",
+      "Different goals can require different mixes.",
+      "Review allocation when goals change."
+    ],
+    "keyPoints": [
+      "Asset allocation is about broad portfolio mix.",
+      "Different goals can require different mixes.",
+      "Review allocation when goals change."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes asset allocation?",
+        "options": [
+          "Asset allocation is the decision about how much of a portfolio is placed in broad categories such as equity, debt and cash-like assets. Different goals can justify different mixes.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Asset allocation is the decision about how much of a portfolio is placed in broad categories such as equity, debt and cash-like assets. Different goals can justify different mixes."
+      },
+      {
+        "question": "Why might two goals use different asset allocations?",
+        "options": [
+          "They have different time horizons and risk needs",
+          "All goals must use one mix",
+          "Allocation depends only on age",
+          "Asset classes are identical"
+        ],
+        "answerIndex": 0,
+        "explanation": "Different timelines and risk needs can justify different portfolio mixes."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "investment-horizon",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Investment Horizon",
+    "summary": "Match investment risk and liquidity with when you expect to need the money.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Match investment risk and liquidity with when you expect to need the money. Investment horizon is the time until you expect to use the money. A long horizon may tolerate more short-term fluctuation than money needed very soon, though no horizon removes risk.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Time horizon affects suitable risk. Near-term goals need enough liquidity. Long horizons do not guarantee profit.",
+    "example": "A student saving for next semester’s fees has a much shorter horizon than someone saving for retirement in 30 years. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Time horizon affects suitable risk.",
+      "Near-term goals need enough liquidity.",
+      "Long horizons do not guarantee profit."
+    ],
+    "keyPoints": [
+      "Time horizon affects suitable risk.",
+      "Near-term goals need enough liquidity.",
+      "Long horizons do not guarantee profit."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes investment horizon?",
+        "options": [
+          "Investment horizon is the time until you expect to use the money. A long horizon may tolerate more short-term fluctuation than money needed very soon, though no horizon removes risk.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Investment horizon is the time until you expect to use the money. A long horizon may tolerate more short-term fluctuation than money needed very soon, though no horizon removes risk."
+      },
+      {
+        "question": "Which goal has the shorter investment horizon?",
+        "options": [
+          "Next semester’s fees",
+          "Retirement in 30 years",
+          "A child’s future retirement",
+          "A 25-year wealth goal"
+        ],
+        "answerIndex": 0,
+        "explanation": "Next semester is much closer in time than the long-term goals."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "compounding-investing",
+    "trackId": "investing-fundamentals",
+    "track": "Investing Fundamentals",
+    "title": "Compounding in Investing",
+    "summary": "See how reinvested returns can generate additional returns over time.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "See how reinvested returns can generate additional returns over time. Compounding occurs when returns remain invested and can themselves generate future returns. More time can create more compounding periods, but investment returns are never guaranteed.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Compounding works on accumulated value. Time increases the number of compounding periods. Returns are not guaranteed in real investments.",
+    "example": "₹10,000 grows 10% to ₹11,000 in a simplified example. A further 10% would be ₹1,100 because the second period starts from ₹11,000. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Compounding works on accumulated value.",
+      "Time increases the number of compounding periods.",
+      "Returns are not guaranteed in real investments."
+    ],
+    "keyPoints": [
+      "Compounding works on accumulated value.",
+      "Time increases the number of compounding periods.",
+      "Returns are not guaranteed in real investments."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes compounding in investing?",
+        "options": [
+          "Compounding occurs when returns remain invested and can themselves generate future returns. More time can create more compounding periods, but investment returns are never guaranteed.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Compounding occurs when returns remain invested and can themselves generate future returns. More time can create more compounding periods, but investment returns are never guaranteed."
+      },
+      {
+        "question": "What is 10% of ₹11,000?",
+        "options": [
+          "₹1,100",
+          "₹100",
+          "₹1,000",
+          "₹11,000"
+        ],
+        "answerIndex": 0,
+        "explanation": "10% of ₹11,000 is ₹1,100."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "gross-vs-taxable",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Gross vs Taxable Income",
+    "summary": "Learn why the amount you earn and the amount subject to tax may not be identical.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn why the amount you earn and the amount subject to tax may not be identical. Gross income is a broad income measure, while taxable income is determined after applying relevant tax rules, inclusions, exemptions or deductions. Exact calculations depend on current law.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Gross and taxable income are different concepts. Adjustments depend on current rules. Keep tax-relevant documentation.",
+    "example": "A person has salary income and eligible deductions under current rules, so gross income and final taxable income may differ. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Gross and taxable income are different concepts.",
+      "Adjustments depend on current rules.",
+      "Keep tax-relevant documentation."
+    ],
+    "keyPoints": [
+      "Gross and taxable income are different concepts.",
+      "Adjustments depend on current rules.",
+      "Keep tax-relevant documentation."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes gross vs taxable income?",
+        "options": [
+          "Gross income is a broad income measure, while taxable income is determined after applying relevant tax rules, inclusions, exemptions or deductions. Exact calculations depend on current law.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Gross income is a broad income measure, while taxable income is determined after applying relevant tax rules, inclusions, exemptions or deductions. Exact calculations depend on current law."
+      },
+      {
+        "question": "Which amount is calculated after applying relevant tax rules and adjustments?",
+        "options": [
+          "Taxable income",
+          "Credit limit",
+          "Net worth",
+          "Insurance premium"
+        ],
+        "answerIndex": 0,
+        "explanation": "Taxable income is determined after applicable tax treatment."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "deductions-tax-planning",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Deductions & Tax Planning",
+    "summary": "Understand why a tax benefit should not be the only reason to choose a financial product.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Understand why a tax benefit should not be the only reason to choose a financial product. Tax planning considers legal deductions, exemptions and current rules, but product risk, fees, lock-in and liquidity still matter. Current eligibility must always be verified.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Tax benefit is one factor, not the whole decision. Verify current eligibility and limits. Match products to the goal and liquidity needs.",
+    "example": "An investor rejects a tax-advantaged product because its long lock-in conflicts with an education goal next year. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Tax benefit is one factor, not the whole decision.",
+      "Verify current eligibility and limits.",
+      "Match products to the goal and liquidity needs."
+    ],
+    "keyPoints": [
+      "Tax benefit is one factor, not the whole decision.",
+      "Verify current eligibility and limits.",
+      "Match products to the goal and liquidity needs."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes deductions & tax planning?",
+        "options": [
+          "Tax planning considers legal deductions, exemptions and current rules, but product risk, fees, lock-in and liquidity still matter. Current eligibility must always be verified.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Tax planning considers legal deductions, exemptions and current rules, but product risk, fees, lock-in and liquidity still matter. Current eligibility must always be verified."
+      },
+      {
+        "question": "Should tax benefit be the only reason to choose a financial product?",
+        "options": [
+          "No",
+          "Yes",
+          "Always if advertised",
+          "Only if a friend uses it"
+        ],
+        "answerIndex": 0,
+        "explanation": "Product suitability also depends on risk, cost, liquidity and goals."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "term-life-insurance",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Term Life Insurance",
+    "summary": "Learn the core protection purpose of term life cover.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn the core protection purpose of term life cover. Term life insurance is designed primarily to provide life cover for a specified period under the policy terms. The need is closely connected to dependants and financial obligations.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Term insurance is primarily protection. Dependants and obligations influence coverage needs. Read exclusions carefully.",
+    "example": "A working parent considers term cover because the household would face a large income gap if that person died unexpectedly. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Term insurance is primarily protection.",
+      "Dependants and obligations influence coverage needs.",
+      "Read exclusions carefully."
+    ],
+    "keyPoints": [
+      "Term insurance is primarily protection.",
+      "Dependants and obligations influence coverage needs.",
+      "Read exclusions carefully."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes term life insurance?",
+        "options": [
+          "Term life insurance is designed primarily to provide life cover for a specified period under the policy terms. The need is closely connected to dependants and financial obligations.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Term life insurance is designed primarily to provide life cover for a specified period under the policy terms. The need is closely connected to dependants and financial obligations."
+      },
+      {
+        "question": "What is the primary purpose of term life insurance?",
+        "options": [
+          "Life protection for a specified period",
+          "Guaranteed stock returns",
+          "Daily expense automation",
+          "Eliminating taxes"
+        ],
+        "answerIndex": 0,
+        "explanation": "Term insurance is primarily designed to provide life cover."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "health-insurance",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Health Insurance",
+    "summary": "Understand how health coverage can reduce the financial shock of eligible medical expenses.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Understand how health coverage can reduce the financial shock of eligible medical expenses. Health insurance provides specified coverage for eligible medical expenses under policy conditions. Sum insured, waiting periods, co-payments, exclusions and hospital networks can all matter.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Check sum insured and exclusions. Understand waiting periods and co-payments. Compare hospital network and claim process.",
+    "example": "One plan costs slightly more but has a stronger hospital network and lower co-payment than a cheaper alternative. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Check sum insured and exclusions.",
+      "Understand waiting periods and co-payments.",
+      "Compare hospital network and claim process."
+    ],
+    "keyPoints": [
+      "Check sum insured and exclusions.",
+      "Understand waiting periods and co-payments.",
+      "Compare hospital network and claim process."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes health insurance?",
+        "options": [
+          "Health insurance provides specified coverage for eligible medical expenses under policy conditions. Sum insured, waiting periods, co-payments, exclusions and hospital networks can all matter.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Health insurance provides specified coverage for eligible medical expenses under policy conditions. Sum insured, waiting periods, co-payments, exclusions and hospital networks can all matter."
+      },
+      {
+        "question": "Which feature directly affects how much of a claim you may pay yourself?",
+        "options": [
+          "Co-payment",
+          "App icon",
+          "Policy colour",
+          "Brand slogan"
+        ],
+        "answerIndex": 0,
+        "explanation": "A co-payment requires the policyholder to pay a specified share."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "annual-protection-review",
+    "trackId": "taxes-insurance",
+    "track": "Taxes & Insurance",
+    "title": "Annual Protection Review",
+    "summary": "Keep insurance and financial protection aligned with your changing life.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Keep insurance and financial protection aligned with your changing life. A protection review checks whether coverage, nominees, emergency information and major obligations still reflect current circumstances. Major life events can change protection needs.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Review protection after major life changes. Keep nominee information current. Do not replace policies without understanding consequences.",
+    "example": "After taking a home loan, a family reviews life cover and emergency savings because the household now has a larger obligation. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Review protection after major life changes.",
+      "Keep nominee information current.",
+      "Do not replace policies without understanding consequences."
+    ],
+    "keyPoints": [
+      "Review protection after major life changes.",
+      "Keep nominee information current.",
+      "Do not replace policies without understanding consequences."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes annual protection review?",
+        "options": [
+          "A protection review checks whether coverage, nominees, emergency information and major obligations still reflect current circumstances. Major life events can change protection needs.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "A protection review checks whether coverage, nominees, emergency information and major obligations still reflect current circumstances. Major life events can change protection needs."
+      },
+      {
+        "question": "Which event is a sensible trigger for a protection review?",
+        "options": [
+          "Taking on a large new loan",
+          "Changing phone wallpaper",
+          "Watching a market video",
+          "Buying groceries"
+        ],
+        "answerIndex": 0,
+        "explanation": "A large new obligation can materially change protection needs."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "confirmation-bias",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "Confirmation Bias",
+    "summary": "Learn why people naturally search for evidence that agrees with them.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn why people naturally search for evidence that agrees with them. Confirmation bias is the tendency to seek or trust information that supports an existing belief while discounting contradictory evidence. A useful defence is deliberately looking for reasons you may be wrong.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Look for evidence against your view. Define what would change your mind. Use diverse, credible sources.",
+    "example": "An investor reads only bullish posts about a company while dismissing weak earnings and rising debt. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Look for evidence against your view.",
+      "Define what would change your mind.",
+      "Use diverse, credible sources."
+    ],
+    "keyPoints": [
+      "Look for evidence against your view.",
+      "Define what would change your mind.",
+      "Use diverse, credible sources."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes confirmation bias?",
+        "options": [
+          "Confirmation bias is the tendency to seek or trust information that supports an existing belief while discounting contradictory evidence. A useful defence is deliberately looking for reasons you may be wrong.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Confirmation bias is the tendency to seek or trust information that supports an existing belief while discounting contradictory evidence. A useful defence is deliberately looking for reasons you may be wrong."
+      },
+      {
+        "question": "What is a good defence against confirmation bias?",
+        "options": [
+          "Actively search for disconfirming evidence",
+          "Read only supportive posts",
+          "Block opposing views",
+          "Decide before researching"
+        ],
+        "answerIndex": 0,
+        "explanation": "Seeking evidence that could prove you wrong improves decision quality."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "recency-bias",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "Recency Bias",
+    "summary": "Understand why the latest event can feel more important than the full history.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Understand why the latest event can feel more important than the full history. Recency bias gives too much weight to recent events when predicting the future. Short samples can feel convincing even when they do not represent the wider pattern.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Recent events can dominate memory. Short samples can be misleading. Use longer data and scenarios.",
+    "example": "After five strong market days, a beginner assumes the market will keep rising and dramatically increases risk. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Recent events can dominate memory.",
+      "Short samples can be misleading.",
+      "Use longer data and scenarios."
+    ],
+    "keyPoints": [
+      "Recent events can dominate memory.",
+      "Short samples can be misleading.",
+      "Use longer data and scenarios."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes recency bias?",
+        "options": [
+          "Recency bias gives too much weight to recent events when predicting the future. Short samples can feel convincing even when they do not represent the wider pattern.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Recency bias gives too much weight to recent events when predicting the future. Short samples can feel convincing even when they do not represent the wider pattern."
+      },
+      {
+        "question": "Which behaviour shows recency bias?",
+        "options": [
+          "Assuming the latest trend will continue indefinitely",
+          "Reviewing long-term data",
+          "Testing scenarios",
+          "Using historical context"
+        ],
+        "answerIndex": 0,
+        "explanation": "Recency bias extrapolates recent experience too strongly."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "mental-accounting",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "Mental Accounting",
+    "summary": "Learn how people treat identical money differently depending on its label or source.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Learn how people treat identical money differently depending on its label or source. Mental accounting is the tendency to put money into separate mental buckets and treat those buckets differently even when the money is economically interchangeable.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Money labels influence behaviour. Buckets can help planning but also distort trade-offs. Compare opportunity cost across accounts.",
+    "example": "A person receives a ₹5,000 bonus and spends it freely because it feels like extra money while carrying expensive debt. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Money labels influence behaviour.",
+      "Buckets can help planning but also distort trade-offs.",
+      "Compare opportunity cost across accounts."
+    ],
+    "keyPoints": [
+      "Money labels influence behaviour.",
+      "Buckets can help planning but also distort trade-offs.",
+      "Compare opportunity cost across accounts."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes mental accounting?",
+        "options": [
+          "Mental accounting is the tendency to put money into separate mental buckets and treat those buckets differently even when the money is economically interchangeable.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Mental accounting is the tendency to put money into separate mental buckets and treat those buckets differently even when the money is economically interchangeable."
+      },
+      {
+        "question": "Which example best shows mental accounting?",
+        "options": [
+          "Treating bonus money as free to waste while carrying costly debt",
+          "Comparing interest rates",
+          "Reviewing a budget",
+          "Building an emergency fund"
+        ],
+        "answerIndex": 0,
+        "explanation": "The money is treated differently because of its source rather than its economic value."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "present-bias",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "Present Bias",
+    "summary": "Understand why immediate rewards can overpower larger future benefits.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Understand why immediate rewards can overpower larger future benefits. Present bias gives excessive weight to immediate rewards compared with future consequences. It can contribute to overspending or delaying saving, and automation can reduce reliance on willpower.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Immediate rewards can crowd out future goals. Automation reduces reliance on willpower. Make future goals concrete and visible.",
+    "example": "A student plans to save ₹2,000 but repeatedly spends it because an immediate purchase feels more rewarding than a distant goal. This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Immediate rewards can crowd out future goals.",
+      "Automation reduces reliance on willpower.",
+      "Make future goals concrete and visible."
+    ],
+    "keyPoints": [
+      "Immediate rewards can crowd out future goals.",
+      "Automation reduces reliance on willpower.",
+      "Make future goals concrete and visible."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes present bias?",
+        "options": [
+          "Present bias gives excessive weight to immediate rewards compared with future consequences. It can contribute to overspending or delaying saving, and automation can reduce reliance on willpower.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "Present bias gives excessive weight to immediate rewards compared with future consequences. It can contribute to overspending or delaying saving, and automation can reduce reliance on willpower."
+      },
+      {
+        "question": "What can help reduce present bias in saving?",
+        "options": [
+          "Automatic transfers",
+          "Waiting until money is left over",
+          "Increasing impulse purchases",
+          "Ignoring future goals"
+        ],
+        "answerIndex": 0,
+        "explanation": "Automation moves money before repeated short-term temptations."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  },
+  {
+    "id": "decision-checklist",
+    "trackId": "behavioural-finance",
+    "track": "Behavioural Finance",
+    "title": "Decision Checklist & Debiasing",
+    "summary": "Turn awareness of bias into a repeatable decision process.",
+    "duration": "6 min",
+    "xp": 50,
+    "concept": "Turn awareness of bias into a repeatable decision process. A decision checklist is a short set of questions used before a meaningful financial choice. It cannot remove bias completely, but it forces you to state the goal, evidence, downside and alternatives.\n\nThe practical purpose of this lesson is to turn the definition into a decision rule you can use. Slow down meaningful decisions. Write the goal, risks and alternatives. Define what evidence would change your mind.",
+    "example": "Before investing, you ask: What is my goal? What could make this fail? How much can I lose? What evidence would change my mind? This example shows how the concept changes a real choice or calculation rather than staying as a definition.",
+    "exampleExplanation": [
+      "Slow down meaningful decisions.",
+      "Write the goal, risks and alternatives.",
+      "Define what evidence would change your mind."
+    ],
+    "keyPoints": [
+      "Slow down meaningful decisions.",
+      "Write the goal, risks and alternatives.",
+      "Define what evidence would change your mind."
+    ],
+    "sourceLabel": "Authoritative financial-literacy concepts; verify current rules with the relevant regulator.",
+    "quizzes": [
+      {
+        "question": "Which statement best describes decision checklist & debiasing?",
+        "options": [
+          "A decision checklist is a short set of questions used before a meaningful financial choice. It cannot remove bias completely, but it forces you to state the goal, evidence, downside and alternatives.",
+          "A guaranteed way to earn money without risk",
+          "A rule that is identical for everyone",
+          "A shortcut that removes the need to check facts"
+        ],
+        "answerIndex": 0,
+        "explanation": "A decision checklist is a short set of questions used before a meaningful financial choice. It cannot remove bias completely, but it forces you to state the goal, evidence, downside and alternatives."
+      },
+      {
+        "question": "Which question is most useful in a debiasing checklist?",
+        "options": [
+          "What evidence would make me change my mind?",
+          "How fast can I act before others?",
+          "How can I ignore downside?",
+          "Which influencer is most confident?"
+        ],
+        "answerIndex": 0,
+        "explanation": "A willingness to change your mind based on evidence reduces bias."
+      },
+      {
+        "question": "Which approach best applies this lesson?",
+        "options": [
+          "Check the facts, terms and your own goal before acting",
+          "Copy the first social-media opinion you see",
+          "Assume one outcome proves the rule",
+          "Ignore costs and risks"
+        ],
+        "answerIndex": 0,
+        "explanation": "Applying financial concepts well requires connecting the facts to your own goal, constraints and risks."
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "money-basics",
+    "number": 1,
+    "title": "Money Basics",
+    "icon": "💸",
+    "description": "Understand income, expenses, budgeting, saving and inflation.",
+    "accent": "Foundation"
+  },
+  {
+    "id": "banking-digital-money",
+    "number": 2,
+    "title": "Banking & Digital Money",
+    "icon": "🏦",
+    "description": "Learn how bank accounts, cards, UPI and digital payments work safely.",
+    "accent": "Everyday finance"
+  },
+  {
+    "id": "credit-debt",
+    "number": 3,
+    "title": "Credit & Debt",
+    "icon": "💳",
+    "description": "Understand credit scores, loans, EMIs, interest and debt traps.",
+    "accent": "Borrowing"
+  },
+  {
+    "id": "investing-fundamentals",
+    "number": 4,
+    "title": "Investing Fundamentals",
+    "icon": "📈",
+    "description": "Build a base in risk, return, stocks, bonds, mutual funds and diversification.",
+    "accent": "Investing"
+  },
+  {
+    "id": "taxes-insurance",
+    "number": 5,
+    "title": "Taxes & Insurance",
+    "icon": "🧾",
+    "description": "Learn tax basics, insurance concepts and long-term financial protection.",
+    "accent": "Protection"
+  },
+  {
+    "id": "behavioural-finance",
+    "number": 6,
+    "title": "Behavioural Finance",
+    "icon": "🧠",
+    "description": "See how biases, emotions and social pressure affect money decisions.",
+    "accent": "Decision-making"
+  }
+]
