@@ -1,6 +1,0 @@
-node_modules/
-.next/
-.env.local
-storage/*.sqlite
-storage/*.sqlite-shm
-storage/*.sqlite-wal
